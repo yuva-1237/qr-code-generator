@@ -1,3 +1,3 @@
 import qrcode
-qr=qrcode.make("https://yuvas-portfolio.vercel.app")
+qr=qrcode.make("PASTE ANY LINK THAT WORKS")
 qr.show()
