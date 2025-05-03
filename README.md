@@ -1,5 +1,6 @@
 #qr-code-generator
 
+---
 
 Here's a snapshot of QR Code that I created and this QR Code is my portfolio. (Scannable and ready to use!)
 
